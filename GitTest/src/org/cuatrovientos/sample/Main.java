@@ -4,7 +4,7 @@
 package org.cuatrovientos.sample;
 
 /**
- * @author Pello Altadill
+ * @author izenik
  *
  */
 public class Main {
